@@ -1,0 +1,8 @@
+body{
+    background-color: hsla(240, 4%, 5%, 0.945);
+}
+
+#canvas{
+    margin-left: 300px;
+    margin-top: 50px;
+}
